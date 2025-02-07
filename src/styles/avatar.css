@@ -2,20 +2,22 @@
   position: fixed;
   overflow: hidden;
   z-index: -2;
+  border-radius: 50%;
+  
 }
 
 .avatar.about {
-  height: 89vh;
-  bottom: -8vh;
+  height: 59vh;
+  bottom: 17vh;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-50%) scaleX(-1);
 }
 
 .avatar.skills {
-  height: 190vh;
-  bottom: -110vh;
-  left: -1.5rem;
-  transform: translateX(0%) scaleX(-1);
+  height: 75vh;
+  bottom: 3vh;
+  left: 15rem;
+  transform: translateX(-20%);
 }
 
 .shadow-overlay-skills {
