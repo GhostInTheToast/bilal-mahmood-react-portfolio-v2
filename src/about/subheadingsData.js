@@ -56,34 +56,53 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2022 Front End Developer",
+      title: "Present - FullStack Software Engineer",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            FS Software Developer at Signature Performance, remote.
+          </p>
+          <p>
+            Technologies: Java Spring, AngularJS, MySQL, JSP, JUnit Tests, and GitLab.
           </p>
         </>
       ),
     },
     {
-      title: "2020 UX Designer",
+      title: "2023 to 2024 - FullStack Software Engineer",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            FullStack Software Engineer at The Western Union in Austin, Texas.
+          </p>
+          <p>
+            Technologies: Java Spring, ReactJS, AWS, Docker, Confluence, and Jenkins.
           </p>
         </>
       ),
     },
     {
-      title: "2017 IT Consultant",
+      title: "2022 - FS Software Dev.",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            FullStack software developer at The Reynolds & Reynolds Company in Houston, Texas.
+          </p>
+          <p>
+            Technologies: C# and .NET Core, JavaScript, SQL, and HTML.
+          </p>
+        </>
+      ),
+    },{
+      title: "2021 - Python Software Developer",
+      content: (
+        <>
+          <p>
+            Remote python software developer at Sobah Systems which is based in Dallas, Texas.
+            Here, I built the first ever webscraping code from scratch for a client for the company.            
+          </p>
+          <p>
+            Tehcnologies: Python, Beautiful Soup 4, PostgreSQL, and multithreading.
           </p>
         </>
       ),
